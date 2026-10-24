@@ -1,0 +1,17 @@
+# Visual Studio and user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+dist/
+publish/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
